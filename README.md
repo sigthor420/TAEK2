@@ -3,4 +3,5 @@
 
 ### 1. Hvað er RAM?
 #### RAM stendur fyrir Random Access Memory og er það sem örgjörvinn notar til að geyma hluti.
-
+### 2. Hvað er ROM?
+#### ROM stendur fyrir Read-only memory og er read-only, sem þýðir að það er ekki hægt að breyta því
