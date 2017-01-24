@@ -18,3 +18,7 @@
 #### - finna leið til að laga vandann
 #### - staðfesta fulla virkni kerfisins
 #### - skrá niður allt það sem var gert
+### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (close ended) spurningu?
+#### open ended - "Hvaða stýrikerfi ertu með?"
+#### close ended - "Hvað varstu að gera þegar þú fékkst þetta vandamál?"
+
