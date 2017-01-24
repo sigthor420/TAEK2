@@ -28,9 +28,12 @@
 #### - Lyklaborð
 #### - Míkrafónn
 ### 10. Tölva undir 250.000 kr
-|Íhlutur  | 					|Verð  |
-|-------- |:-----------------------------------:| ----:|
-|Móðurborð|z170-k, 				|25.000|
-|Örgjörvi |Intel Core I7 7700K 			|55.000|
-|Ram	  |ADATA 32GB ddr4 3000MHz 2x16GB	|50.000|
-|Skjákort |Gigabyte GTX 1070 Xtreme 8GB GDDR5 	|90.000|
+|Íhlutur  	| 					|Verð  |Hvar það fæst|
+|-------------- |:--------------------------------------| ----:| -----------:|
+|Móðurborð	|z170-k, 				|25.000|att.is       |
+|Örgjörvi 	|Intel Core I7 7700K 			|55.000|att.is       |
+|Ram	  	|Kingston 16GB ddr4 2400MHz 2x8GB	|20.000|computer.is  |
+|Skjákort 	|Gigabyte GTX 1070 Xtreme 8GB GDDR5 	|90.000|tölvutek     |
+|Kassi    	|In-Win 303 Black ATX			|20.000|computer.is  |
+|Örgjörvakæling |Arctic freezer i11			|5.000 |computer.is  |
+|Aflgjafi	|ATX EVGA 850W 80+ Gold Modular		|25.000|computer.is  |
