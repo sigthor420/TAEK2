@@ -21,4 +21,5 @@
 ### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (close ended) spurningu?
 #### open ended - "Hvaða stýrikerfi ertu með?"
 #### close ended - "Hvað varstu að gera þegar þú fékkst þetta vandamál?"
-
+### 8. Hvað eru jaðartæki?
+#### tæki sem stjórnað er af tiltekinni tölvu og getur haft samskipti við hana
