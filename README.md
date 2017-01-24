@@ -23,3 +23,7 @@
 #### close ended - "Hvað varstu að gera þegar þú fékkst þetta vandamál?"
 ### 8. Hvað eru jaðartæki?
 #### tæki sem stjórnað er af tiltekinni tölvu og getur haft samskipti við hana
+### 9. Nefndu þrjú dæmi um inntakstæki
+#### - Mús
+#### - Lyklaborð
+#### - Míkrafónn
